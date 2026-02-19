@@ -1,0 +1,595 @@
+[
+  {
+    "category": "Network Issues",
+    "issue": "Call Drops",
+    "customer_query": "My calls keep disconnecting.",
+    "agent_response": "I’m sorry for the trouble. There’s a temporary network fluctuation in your area. Our team is working on it, and service should stabilize within 2 hours."
+  },
+  {
+    "category": "Network Issues",
+    "issue": "No Signal",
+    "customer_query": "My phone shows ‘No Service.’",
+    "agent_response": "Please restart your phone and reinsert the SIM. If the issue continues, I’ll raise a technical ticket for your location."
+  },
+  {
+    "category": "Network Issues",
+    "issue": "Poor Indoor Coverage",
+    "customer_query": "I don’t get signal inside my house.",
+    "agent_response": "Indoor coverage can be weaker. You can enable Wi-Fi calling for better connectivity indoors."
+  },
+  {
+    "category": "Network Issues",
+    "issue": "Slow Internet Speed",
+    "customer_query": "My 4G speed is very slow.",
+    "agent_response": "I’ve checked your usage, and you’re close to your daily data limit, which may reduce speed. You can upgrade to a higher data pack for uninterrupted browsing."
+  },
+  {
+    "category": "Network Issues",
+    "issue": "Network Outage",
+    "customer_query": "Is there a network outage in my area?",
+    "agent_response": "Yes, there’s scheduled maintenance. Services will be restored by 3 PM today. You’ll receive an SMS once it’s resolved."
+  },
+  {
+    "category": "Network Issues",
+    "issue": "Roaming Issues",
+    "customer_query": "I’m abroad and can’t connect to the network.",
+    "agent_response": "Please ensure roaming is activated. Restart your phone and manually select the partner network. If it still doesn’t work, I’ll escalate this to our roaming support team."
+  },
+  {
+    "category": "Network Issues",
+    "issue": "Frequent Signal Fluctuations",
+    "customer_query": "My signal keeps jumping between full bars and no service.",
+    "agent_response": "This usually happens during network upgrades. I’ll log your complaint with our technical team, and you’ll get an update within 48 hours."
+  },
+  {
+    "category": "Billing & Payments",
+    "issue": "Double Charge",
+    "customer_query": "I was charged twice for my last bill payment.",
+    "agent_response": "I see the duplicate charge in your account. I’ve initiated a refund, which will reflect in 3–5 business days."
+  },
+  {
+    "category": "Billing & Payments",
+    "issue": "Incorrect Bill",
+    "customer_query": "My bill shows extra charges I don’t recognize.",
+    "agent_response": "I’ll review your usage details. The charges are for international calls. If you didn’t make them, I’ll raise a dispute immediately."
+  },
+  {
+    "category": "Billing & Payments",
+    "issue": "Late Fee Dispute",
+    "customer_query": "I was charged a late fee, but I paid on time.",
+    "agent_response": "I’ll verify your payment date. Since it was received before the due date, I’ll waive the late fee and adjust your bill."
+  },
+  {
+    "category": "Billing & Payments",
+    "issue": "Payment Failure",
+    "customer_query": "I tried to pay online, but the payment didn’t go through.",
+    "agent_response": "I’ve checked your account, and no payment was received. Please retry using our app or another method. If deducted from your bank, it will be refunded within 3–5 days."
+  },
+  {
+    "category": "Billing & Payments",
+    "issue": "Bill Not Received",
+    "customer_query": "I haven’t received my monthly bill yet.",
+    "agent_response": "Your bill has been generated and delivered. I’ll resend it to your registered email and SMS right away."
+  },
+  {
+    "category": "Billing & Payments",
+    "issue": "Advance Payment",
+    "customer_query": "Can I pay my bill in advance?",
+    "agent_response": "Yes, you can make an advance payment through our app or website. The amount will be adjusted against your upcoming bills."
+  },
+  {
+    "category": "Plan & Services",
+    "issue": "Plan Upgrade",
+    "customer_query": "I want to switch to a cheaper plan with less data.",
+    "agent_response": "Based on your usage, the ₹399 plan with 20GB monthly data might suit you. Would you like me to activate it starting next billing cycle?"
+  },
+  {
+    "category": "Plan & Services",
+    "issue": "Add-on Pack",
+    "customer_query": "Can I add extra data for this month?",
+    "agent_response": "Yes, we have a 5GB add-on pack for ₹99. I can activate it instantly if you’d like."
+  },
+  {
+    "category": "Plan & Services",
+    "issue": "International Calling",
+    "customer_query": "How can I make international calls?",
+    "agent_response": "You can activate our international calling pack starting at ₹199. It covers popular destinations with reduced rates."
+  },
+  {
+    "category": "Plan & Services",
+    "issue": "Service Activation",
+    "customer_query": "I want to activate caller tunes on my number.",
+    "agent_response": "Caller tunes can be activated via our app or by dialing *123#. The monthly charge is ₹30."
+  },
+  {
+    "category": "Plan & Services",
+    "issue": "Service Deactivation",
+    "customer_query": "I want to stop my data add-on pack.",
+    "agent_response": "I’ll deactivate the add-on pack immediately. Your next bill will reflect only your base plan charges."
+  },{
+    "category": "Technical Support",
+    "issue": "SIM Activation",
+    "customer_query": "I bought a new SIM, but it’s not working.",
+    "agent_response": "Please confirm the SIM number. I’ll activate it right away, and it may take up to 30 minutes for full service."
+  },
+  {
+    "category": "Technical Support",
+    "issue": "Device Compatibility",
+    "customer_query": "Is my phone compatible with your 5G network?",
+    "agent_response": "I’ll check your device model. If it supports 5G bands, you can access our 5G services by updating your SIM and enabling 5G in settings."
+  },
+  {
+    "category": "Technical Support",
+    "issue": "Internet Setup",
+    "customer_query": "How do I set up internet on my new phone?",
+    "agent_response": "You can configure internet by enabling mobile data and ensuring APN settings are correct. I can send the settings via SMS for easy installation."
+  },
+  {
+    "category": "Technical Support",
+    "issue": "Router/Modem Setup",
+    "customer_query": "My broadband router isn’t connecting.",
+    "agent_response": "Please restart the router and check cable connections. If the issue persists, I’ll schedule a technician visit within 24 hours."
+  },
+  {
+    "category": "Technical Support",
+    "issue": "Voicemail Setup",
+    "customer_query": "How do I activate voicemail on my number?",
+    "agent_response": "You can activate voicemail by dialing *123#. I’ll also send you a step-by-step guide via SMS."
+  },
+  {
+    "category": "Technical Support",
+    "issue": "App Troubleshooting",
+    "customer_query": "Your mobile app keeps crashing when I try to pay bills.",
+    "agent_response": "Please update the app to the latest version. If the issue continues, clear cache or reinstall. I’ll also report this to our app support team."
+  },
+  {
+    "category": "Account Management",
+    "issue": "KYC Update",
+    "customer_query": "I received a message to update my KYC. How do I do that?",
+    "agent_response": "You can update your KYC through our app or by visiting the nearest store with a valid ID proof. I can find the nearest store for you using your location."
+  },
+  {
+    "category": "Account Management",
+    "issue": "Account Suspension",
+    "customer_query": "My account has been suspended. Why?",
+    "agent_response": "Your account was suspended due to incomplete KYC. Once you submit the required documents, services will be restored within 24 hours."
+  },
+  {
+    "category": "Account Management",
+    "issue": "Change of Plan Cycle",
+    "customer_query": "Can I change my billing cycle date?",
+    "agent_response": "Yes, you can change your billing cycle date. I’ll raise a request, and the new cycle will start from next month."
+  },
+  {
+    "category": "Account Management",
+    "issue": "Account Closure",
+    "customer_query": "I want to close my account permanently.",
+    "agent_response": "I’ll process your account closure request. Please clear any outstanding dues, and your account will be closed within 7 working days."
+  },
+  {
+    "category": "Value-Added Services",
+    "issue": "Caller Tunes Activation",
+    "customer_query": "I want to set a caller tune on my number.",
+    "agent_response": "You can activate caller tunes via our app or by dialing *123#. The monthly charge is ₹30."
+  },
+  {
+    "category": "Value-Added Services",
+    "issue": "Caller Tunes Deactivation",
+    "customer_query": "I want to remove my caller tune.",
+    "agent_response": "I’ll deactivate your caller tune immediately. You’ll receive a confirmation SMS shortly."
+  },
+  {
+    "category": "Value-Added Services",
+    "issue": "OTT Bundle Activation",
+    "customer_query": "Does my plan include free OTT subscriptions?",
+    "agent_response": "Yes, your plan includes a free 3-month subscription to XYZ OTT. I’ll send you the activation link via SMS."
+  },
+  {
+    "category": "Value-Added Services",
+    "issue": "Missed Call Alert",
+    "customer_query": "How do I activate missed call alerts?",
+    "agent_response": "Missed call alerts are free. I’ll activate the service now, and you’ll start receiving notifications immediately."
+  },
+  {
+    "category": "Value-Added Services",
+    "issue": "Cloud Storage",
+    "customer_query": "Do you provide cloud storage with my plan?",
+    "agent_response": "Yes, we offer 10GB free cloud storage with your plan. You can access it via our app under the ‘Cloud’ section."
+  },
+  {
+    "category": "Value-Added Services",
+    "issue": "VAS Charges Dispute",
+    "customer_query": "I was charged for a service I didn’t activate.",
+    "agent_response": "I’ll check your account. The charge was for caller tunes. Since you didn’t request it, I’ll deactivate the service and refund the amount."
+  },
+  {
+    "category": "Roaming & International Services",
+    "issue": "International Roaming Activation",
+    "customer_query": "I’m traveling abroad tomorrow. How do I activate roaming?",
+    "agent_response": "You can activate roaming by dialing *123# or through our app. The daily pack is ₹599, which includes calls and 1GB data."
+  },
+  {
+    "category": "Roaming & International Services",
+    "issue": "Roaming Not Working",
+    "customer_query": "I’m abroad but my phone isn’t connecting to the network.",
+    "agent_response": "Please restart your phone and manually select the partner network. If it still doesn’t work, I’ll escalate this to our roaming support team."
+  },
+  {
+    "category": "Roaming & International Services",
+    "issue": "Roaming Charges",
+    "customer_query": "How much will it cost to use my phone overseas?",
+    "agent_response": "Roaming charges vary by country. For example, calls are ₹10/min and data packs start at ₹599 per day. I can send you the full tariff list for your destination."
+  },
+  {
+    "category": "Roaming & International Services",
+    "issue": "Incoming Call Issues",
+    "customer_query": "I can’t receive calls while roaming.",
+    "agent_response": "Please check if international roaming is active and ensure call forwarding is disabled. If the issue persists, I’ll raise a technical ticket."
+  },
+  {
+    "category": "Roaming & International Services",
+    "issue": "Data Roaming",
+    "customer_query": "Can I use mobile data while traveling abroad?",
+    "agent_response": "Yes, you can use mobile data with our roaming packs. I recommend activating a daily or weekly data pack to avoid high pay-per-use charges."
+  },
+  {
+    "category": "Roaming & International Services",
+    "issue": "Roaming Deactivation",
+    "customer_query": "I want to turn off roaming services.",
+    "agent_response": "I’ll deactivate roaming for your account immediately. You’ll receive a confirmation SMS, and charges will stop from today."
+  },
+  {
+    "category": "Customer Engagement",
+    "issue": "Light Conversation Follow-up",
+    "customer_query": "Tell me another joke.",
+    "agent_response": "Of course! Why don’t phones ever get lost? Because they always know how to find their contacts! 😄 Would you like to hear one more?"
+  },
+  {
+    "category": "Customer Engagement",
+    "issue": "Casual Chat Continuation",
+    "customer_query": "What else can you do?",
+    "agent_response": "I can help you check your balance, recharge your number, activate packs, fix network issues, or even just have a quick friendly chat!"
+  },
+  {
+    "category": "Customer Engagement",
+    "issue": "Bored Customer Engagement",
+    "customer_query": "Okay, tell me a fun fact.",
+    "agent_response": "Here’s a fun fact: The first mobile call was made in 1973! Technology has come a long way since then. Want to know another one?"
+  },
+  {
+    "category": "Customer Engagement",
+    "issue": "Offer Suggestion Follow-up",
+    "customer_query": "Do you have any special offers for me?",
+    "agent_response": "Yes! Based on your usage, you’re eligible for a 2.5 GB per day pack at ₹349. Would you like me to activate it for you?"
+  },
+  {
+    "category": "Customer Engagement",
+    "issue": "Customer Appreciation Follow-up",
+    "customer_query": "You’re helpful. What’s your name?",
+    "agent_response": "I’m your virtual telecom assistant, always here to help you 24/7. You can just call me your smart helper!"
+  },
+  {
+    "category": "Customer Engagement",
+    "issue": "Conversation to Service Transition",
+    "customer_query": "Alright, now check my balance.",
+    "agent_response": "Sure! Your current main balance is ₹84, and your plan is valid until 26 February 2026."
+  },
+  {
+    "category": "Customer Engagement",
+    "issue": "Service Clarification Follow-up",
+    "customer_query": "Why is my internet slow?",
+    "agent_response": "You have used your daily high-speed data limit. Your speed has been reduced. Would you like to activate a data add-on pack?"
+  },
+  {
+    "category": "Customer Engagement",
+    "issue": "Escalation Request",
+    "customer_query": "Can I speak to a real person?",
+    "agent_response": "Certainly. I’ll transfer your call to a customer care executive. Please stay on the line."
+  },
+  {
+    "category": "Customer Engagement",
+    "issue": "Goodbye Follow-up",
+    "customer_query": "Thanks, that’s all.",
+    "agent_response": "You’re welcome! Thank you for calling. Have a great day and stay connected!"
+  },
+  {
+    "category": "Customer Engagement",
+    "issue": "Re-engagement Prompt",
+    "customer_query": "Anything else I should know?",
+    "agent_response": "Just a reminder—your current plan expires in 2 days. Would you like me to suggest a suitable recharge option?"
+  },
+  {
+    "category": "Loan & Financing",
+    "issue": "Loan Application Status",
+    "customer_query": "I applied for a loan, but I haven’t received any update.",
+    "agent_response": "Loan applications are usually processed within 3–5 business days. I’ll check the status of your application and escalate if delayed."
+  },
+  {
+    "category": "Loan & Financing",
+    "issue": "Eligibility Check",
+    "customer_query": "Am I eligible to apply for a loan through your app?",
+    "agent_response": "Eligibility depends on your credit score, KYC status, and transaction history. I’ll verify your account details and confirm your eligibility."
+  },
+  {
+    "category": "Loan & Financing",
+    "issue": "Loan Disbursement Delay",
+    "customer_query": "My loan was approved, but the money hasn’t been credited yet.",
+    "agent_response": "Loan disbursements usually take 24–48 hours after approval. I’ll check the disbursement status and escalate if it’s delayed."
+  },
+  {
+    "category": "Loan & Financing",
+    "issue": "Repayment Schedule",
+    "customer_query": "How can I check my loan repayment schedule?",
+    "agent_response": "You can view your repayment schedule in the ‘Loans’ section of the app. I’ll also send you a copy via email for reference."
+  },
+  {
+    "category": "Loan & Financing",
+    "issue": "Prepayment Request",
+    "customer_query": "Can I repay my loan early without penalties?",
+    "agent_response": "Yes, most loans allow prepayment without penalties. I’ll confirm the terms of your loan and guide you through the prepayment process."
+  },
+  {
+    "category": "Loan & Financing",
+    "issue": "Interest Rate Clarification",
+    "customer_query": "Why is my loan interest rate higher than advertised?",
+    "agent_response": "Interest rates vary based on your credit profile and loan type. I’ll provide a detailed breakdown of how your rate was calculated."
+  },
+  {
+    "category": "Loan & Financing",
+    "issue": "Missed EMI",
+    "customer_query": "I missed my EMI payment. What happens now?",
+    "agent_response": "A missed EMI may attract late fees and affect your credit score. I’ll help you make the payment immediately and check if any penalties apply."
+  },
+  {
+    "category": "Account Closure & Retention",
+    "issue": "Closure Request",
+    "customer_query": "I want to permanently close my wallet account.",
+    "agent_response": "I’ll process your account closure request. Please withdraw any remaining balance, and your account will be closed within 7 working days."
+  },
+  {
+    "category": "Account Closure & Retention",
+    "issue": "Retention Offer",
+    "customer_query": "I’m thinking of closing my account because of high charges.",
+    "agent_response": "I understand your concern. We have a retention plan that waives certain fees for loyal customers. Would you like me to apply it to your account?"
+  },
+  {
+    "category": "Account Closure & Retention",
+    "issue": "Temporary Suspension",
+    "customer_query": "Can I suspend my account instead of closing it?",
+    "agent_response": "Yes, we can suspend your account for up to 90 days. You won’t be billed during this period, and you can reactivate anytime."
+  },
+  {
+    "category": "Account Closure & Retention",
+    "issue": "Final Settlement",
+    "customer_query": "When will I get my final settlement after closing my account?",
+    "agent_response": "Your final settlement, including refunds or deposits, will be processed within 30 days of closure. You’ll receive a confirmation SMS once completed."
+  },
+  {
+    "category": "Account Closure & Retention",
+    "issue": "Device Return",
+    "customer_query": "I had a company-provided card reader. How do I return it after closure?",
+    "agent_response": "You can return the device at our nearest service center. Once received, we’ll close your account and process any pending refunds."
+  },
+  {
+    "category": "Account Closure & Retention",
+    "issue": "Closure Confirmation",
+    "customer_query": "How will I know my account is closed?",
+    "agent_response": "You’ll receive a confirmation SMS and email once your account is closed. Any remaining balance will be refunded to your linked bank account."
+  },
+  {
+    "category": "Technical Support",
+    "issue": "App Not Loading",
+    "customer_query": "The payment app won’t open on my phone.",
+    "agent_response": "Please try clearing the app cache or reinstalling it. If the issue persists, I’ll escalate this to our technical team."
+  },
+  {
+    "category": "Technical Support",
+    "issue": "Login Error",
+    "customer_query": "I can’t log in to my account even with the correct password.",
+    "agent_response": "I’ll help you reset your credentials. You’ll receive a secure link via SMS/email to create a new password."
+  },
+  {
+    "category": "Technical Support",
+    "issue": "Transaction Not Processing",
+    "customer_query": "My payment keeps failing even though I have balance.",
+    "agent_response": "This may be due to a temporary server issue. Please retry after a few minutes. If it continues, I’ll raise a technical ticket."
+  },
+  {
+    "category": "Technical Support",
+    "issue": "App Crash",
+    "customer_query": "The app crashes every time I try to make a payment.",
+    "agent_response": "Please update to the latest version of the app. If the problem persists, I’ll escalate this to our app development team."
+  },
+  {
+    "category": "Technical Support",
+    "issue": "Notification Issue",
+    "customer_query": "I’m not receiving payment confirmation notifications.",
+    "agent_response": "Please check your notification settings. If they’re enabled and you still don’t receive alerts, I’ll escalate this to our support team."
+  },
+  {
+    "category": "Technical Support",
+    "issue": "Slow Performance",
+    "customer_query": "The app is very slow when I try to use it.",
+    "agent_response": "Please ensure you have a stable internet connection. If the issue persists, I’ll log this with our technical team for optimization."
+  },
+  {
+    "category": "Promotions & Cashback",
+    "issue": "Cashback Not Credited",
+    "customer_query": "I made a purchase under a cashback offer, but I haven’t received the cashback.",
+    "agent_response": "Cashback is usually credited within 3–7 business days. I’ll check the status of your transaction and escalate if it’s delayed."
+  },
+  {
+    "category": "Promotions & Cashback",
+    "issue": "Offer Eligibility",
+    "customer_query": "Am I eligible for the current cashback promotion?",
+    "agent_response": "Eligibility depends on your payment method and transaction value. I’ll verify your account and confirm if you qualify for the offer."
+  },
+  {
+    "category": "Promotions & Cashback",
+    "issue": "Promo Code Not Working",
+    "customer_query": "I tried using a promo code, but it didn’t apply.",
+    "agent_response": "Promo codes may be expired or restricted to certain merchants. I’ll check the validity of your code and guide you on applying it correctly."
+  },
+  {
+    "category": "Promotions & Cashback",
+    "issue": "Partial Cashback",
+    "customer_query": "I received less cashback than promised.",
+    "agent_response": "Cashback amounts can vary based on transaction type or exclusions. I’ll review your transaction and raise a request if the credited amount is incorrect."
+  },
+  {
+    "category": "Promotions & Cashback",
+    "issue": "Expired Offer",
+    "customer_query": "I tried to claim a cashback, but the offer has expired.",
+    "agent_response": "Unfortunately, expired offers cannot be claimed. However, I’ll share details of ongoing promotions that you can use."
+  },
+  {
+    "category": "Promotions & Cashback",
+    "issue": "Multiple Offers",
+    "customer_query": "Can I use more than one promotion on the same transaction?",
+    "agent_response": "Most transactions allow only one promotion at a time. I’ll confirm if your merchant supports stacking offers."
+  },
+  {
+    "category": "International Transactions",
+    "issue": "Cross-Border Payment Failure",
+    "customer_query": "My international payment didn’t go through.",
+    "agent_response": "I’ll check the transaction status. International payments may fail due to currency restrictions or bank policies. If the amount was deducted, it will be refunded within 5–7 business days."
+  },
+  {
+    "category": "International Transactions",
+    "issue": "Currency Conversion",
+    "customer_query": "How is the exchange rate calculated for my payment?",
+    "agent_response": "Exchange rates are determined by our partner banks at the time of transaction. I can share the current rate applied to your payment."
+  },
+  {
+    "category": "International Transactions",
+    "issue": "High Fees",
+    "customer_query": "Why was I charged extra for my international transfer?",
+    "agent_response": "International transfers may include conversion fees and partner bank charges. I’ll provide a breakdown of the fees applied to your transaction."
+  },
+  {
+    "category": "International Transactions",
+    "issue": "Blocked Transaction",
+    "customer_query": "My overseas payment was blocked. Why?",
+    "agent_response": "Payments can be blocked due to compliance checks or country restrictions. I’ll escalate this to our compliance team for review."
+  },
+  {
+    "category": "International Transactions",
+    "issue": "Delayed Settlement",
+    "customer_query": "My international transfer is taking too long.",
+    "agent_response": "Cross-border settlements can take 2–5 business days depending on the destination country. I’ll check the status and escalate if delayed further."
+  },
+  {
+    "category": "International Transactions",
+    "issue": "Unsupported Country",
+    "customer_query": "Can I send money to a country not listed in your app?",
+    "agent_response": "Currently, we only support transactions to listed countries. I’ll log your request and notify our product team for future expansion."
+  },
+  {
+    "category": "Merchant & Bill Payments",
+    "issue": "Bill Payment Failure",
+    "customer_query": "I tried to pay my electricity bill, but the payment failed.",
+    "agent_response": "I’ll check the transaction status. If the amount was deducted, it will be refunded within 3–5 business days. You can retry the payment once confirmed."
+  },
+  {
+    "category": "Merchant & Bill Payments",
+    "issue": "Duplicate Payment",
+    "customer_query": "My bill was paid twice for the same account.",
+    "agent_response": "I’ll verify the duplicate payment. If confirmed, I’ll raise a refund request for the extra amount, which will be credited within 3–5 business days."
+  },
+  {
+    "category": "Merchant & Bill Payments",
+    "issue": "Merchant Not Listed",
+    "customer_query": "I can’t find my service provider in the app.",
+    "agent_response": "Some merchants may not be onboarded yet. I’ll log your request and notify our merchant team to add this provider."
+  },
+  {
+    "category": "Merchant & Bill Payments",
+    "issue": "Wrong Account Payment",
+    "customer_query": "I accidentally paid the bill for the wrong account number.",
+    "agent_response": "Once a payment is processed, it cannot be reversed directly. I’ll log a dispute with the merchant and escalate to our support team."
+  },
+  {
+    "category": "Merchant & Bill Payments",
+    "issue": "Pending Payment",
+    "customer_query": "My bill payment is still showing as pending.",
+    "agent_response": "Pending payments usually clear within 24 hours. If it doesn’t update, I’ll escalate this to our merchant settlement team."
+  },
+  {
+    "category": "Merchant & Bill Payments",
+    "issue": "Auto-Pay Setup",
+    "customer_query": "Can I set up automatic bill payments?",
+    "agent_response": "Yes, you can enable auto-pay in the app’s bill payment section. I’ll guide you through the setup process."
+  },
+  {
+    "category": "Wallet Balance & Limits",
+    "issue": "Balance Not Updated",
+    "customer_query": "I added money to my wallet, but the balance hasn’t updated.",
+    "agent_response": "I’ll check your transaction status. If the deposit was successful but not reflected, I’ll raise a request to update your wallet balance."
+  },
+  {
+    "category": "Wallet Balance & Limits",
+    "issue": "Balance Mismatch",
+    "customer_query": "My wallet shows less balance than expected.",
+    "agent_response": "I’ll review your transaction history. If deductions were incorrect, I’ll escalate this to our billing team for correction."
+  },
+  {
+    "category": "Wallet Balance & Limits",
+    "issue": "Daily Transaction Limit",
+    "customer_query": "Why can’t I transfer more than ₹10,000 in a day?",
+    "agent_response": "Your wallet has a daily transfer limit of ₹10,000. To increase this, you’ll need to complete full KYC verification."
+  },
+  {
+    "category": "Wallet Balance & Limits",
+    "issue": "Monthly Limit Exceeded",
+    "customer_query": "I can’t add more funds to my wallet this month.",
+    "agent_response": "You’ve reached the monthly wallet load limit. Once the new cycle begins, you’ll be able to add funds again."
+  },
+  {
+    "category": "Wallet Balance & Limits",
+    "issue": "Refund Not Credited",
+    "customer_query": "My refund was processed but not showing in my wallet balance.",
+    "agent_response": "Refunds may take 3–5 business days to reflect. I’ll check the status and escalate if it’s delayed beyond the expected timeframe."
+  },
+  {
+    "category": "Wallet Balance & Limits",
+    "issue": "Balance Freeze",
+    "customer_query": "My wallet balance is frozen and I can’t use it.",
+    "agent_response": "Your balance may be frozen due to compliance checks. I’ll escalate this to our compliance team and update you once it’s cleared."
+  },
+  {
+    "category": "Payment Linking Issues",
+    "issue": "Bank Account Linking Failure",
+    "customer_query": "I’m unable to link my bank account to the wallet.",
+    "agent_response": "Please ensure your bank details are correct and the account is active. If the issue persists, I’ll escalate it to our banking partner."
+  },
+  {
+    "category": "Payment Linking Issues",
+    "issue": "Card Linking Error",
+    "customer_query": "My debit card isn’t being accepted when I try to link it.",
+    "agent_response": "Some cards may be restricted for wallet use. Please check with your bank. I’ll also raise a request to verify compatibility."
+  },
+  {
+    "category": "Payment Linking Issues",
+    "issue": "UPI ID Linking",
+    "customer_query": "I can’t link my UPI ID to the app.",
+    "agent_response": "Please confirm your UPI ID is active with your bank. If it’s valid, I’ll escalate this to our UPI support team for resolution."
+  },
+  {
+    "category": "Payment Linking Issues",
+    "issue": "Multiple Accounts",
+    "customer_query": "Can I link more than one bank account to my wallet?",
+    "agent_response": "Yes, you can link multiple accounts. Please go to the ‘Bank Accounts’ section in the app and add another account."
+  },
+  {
+    "category": "Payment Linking Issues",
+    "issue": "Verification Pending",
+    "customer_query": "My account shows ‘verification pending’ after linking.",
+    "agent_response": "Verification may take up to 24 hours. I’ll check the status and escalate if it’s delayed beyond the expected timeframe."
+  },
+  {
+    "category": "Payment Linking Issues",
+    "issue": "Auto-Debit Setup",
+    "customer_query": "I want to set up auto-debit from my bank account.",
+    "agent_response": "You can enable auto-debit in the payment settings. I’ll guide you through the authorization process with your bank."
+  }
+]

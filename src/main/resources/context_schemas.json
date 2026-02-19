@@ -1,0 +1,54 @@
+{
+  "contexts": [
+    {
+      "name": "balance_and_usage",
+      "description": "Account balance, data usage, talk time, call history, and current plan for this customer.",
+      "schema": [
+        { "field": "customer_id", "description": "Unique customer identifier" },
+        { "field": "plan_name", "description": "Current active plan name" },
+        { "field": "balance", "description": "Account balance (e.g. prepaid main balance)" },
+        { "field": "data_remaining", "description": "Data remaining in current period (e.g. daily cap or monthly)" },
+        { "field": "data_used", "description": "How much data has been used in the period" },
+        { "field": "talk_time_used", "description": "Minutes of voice calls used" },
+        { "field": "validity_end_date", "description": "Plan validity end date" },
+        { "field": "last_recharge_date", "description": "Date of last recharge" },
+        { "field": "last_recharge_amount", "description": "Amount of last recharge" },
+        { "field": "active_offers", "description": "Any active offers or add-ons" },
+        { "field": "call_history_summary", "description": "Recent call history or summary (e.g. last 5 calls)" }
+      ],
+      "example_queries": [
+        "What is my balance?",
+        "How much data have I used?",
+        "How much data is left?",
+        "How much did I talk this month?",
+        "What is my current plan?",
+        "When does my plan expire?",
+        "Show my call history",
+        "When did I last recharge?",
+        "What offers do I have?"
+      ]
+    },
+    {
+      "name": "loans",
+      "description": "Loan and advance-related information: device loans, bill advances, eligibility, outstanding amount.",
+      "schema": [
+        { "field": "customer_id", "description": "Unique customer identifier" },
+        { "field": "has_active_loan", "description": "Whether customer has an active loan (true/false)" },
+        { "field": "loan_type", "description": "Type of loan (e.g. device loan, bill advance)" },
+        { "field": "outstanding_amount", "description": "Outstanding loan amount to be repaid" },
+        { "field": "emi_amount", "description": "Monthly EMI amount" },
+        { "field": "next_emi_date", "description": "Next EMI due date" },
+        { "field": "loan_tenure_months", "description": "Total tenure of loan in months" },
+        { "field": "eligibility_for_advance", "description": "Whether customer is eligible for advance/loan" }
+      ],
+      "example_queries": [
+        "Do I have a loan?",
+        "What is my outstanding loan amount?",
+        "When is my next EMI due?",
+        "Am I eligible for a bill advance?",
+        "How much is my device EMI?",
+        "What is my loan tenure?"
+      ]
+    }
+  ]
+}
